@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\bin\Debug\net7.0-windows\DeskSolution.Win.Main.exe
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\bin\Debug\net7.0-windows\DeskSolution.Win.Main.deps.json
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\bin\Debug\net7.0-windows\DeskSolution.Win.Main.runtimeconfig.json
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\bin\Debug\net7.0-windows\DeskSolution.Win.Main.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\bin\Debug\net7.0-windows\DeskSolution.Win.Main.pdb
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\refint\DeskSolution.Win.Main.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.pdb
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\ref\DeskSolution.Win.Main.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Main\obj\Debug\net7.0-windows\DeskSolution.Win.Main.MainForm.resources
