@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "DeskSolution.Win.Main/1.0.0": {
-        "dependencies": {
-          "DeskSolution.Win.Pessoas": "1.0.0"
-        },
-        "runtime": {
-          "DeskSolution.Win.Main.dll": {}
-        }
-      },
       "DeskSolution.Win.Pessoas/1.0.0": {
         "runtime": {
           "DeskSolution.Win.Pessoas.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "DeskSolution.Win.Main/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "DeskSolution.Win.Pessoas/1.0.0": {
       "type": "project",
       "serviceable": false,

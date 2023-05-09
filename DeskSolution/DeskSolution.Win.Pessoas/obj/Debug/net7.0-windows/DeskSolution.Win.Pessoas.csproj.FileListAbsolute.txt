@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\bin\Debug\net7.0-windows\DeskSolution.Win.Pessoas.deps.json
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\bin\Debug\net7.0-windows\DeskSolution.Win.Pessoas.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\bin\Debug\net7.0-windows\DeskSolution.Win.Pessoas.pdb
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.PessoaConsultaForm.resources
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\refint\DeskSolution.Win.Pessoas.dll
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\DeskSolution.Win.Pessoas.pdb
+C:\Users\Aluno\source\repos\DeskSolution\DeskSolution.Win.Pessoas\obj\Debug\net7.0-windows\ref\DeskSolution.Win.Pessoas.dll

@@ -1,33 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0-windows7.0": {
-      "DeskSolution.Win.Pessoas/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/DeskSolution.Win.Pessoas.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DeskSolution.Win.Pessoas.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WindowsForms"
-        ]
-      }
-    }
+    "net7.0-windows7.0": {}
   },
-  "libraries": {
-    "DeskSolution.Win.Pessoas/1.0.0": {
-      "type": "project",
-      "path": "../DeskSolution.Win.Pessoas/DeskSolution.Win.Pessoas.csproj",
-      "msbuildProject": "../DeskSolution.Win.Pessoas/DeskSolution.Win.Pessoas.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0-windows7.0": [
-      "DeskSolution.Win.Pessoas >= 1.0.0"
-    ]
+    "net7.0-windows7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Aluno\\.nuget\\packages\\": {}
@@ -35,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Main\\DeskSolution.Win.Main.csproj",
-      "projectName": "DeskSolution.Win.Main",
-      "projectPath": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Main\\DeskSolution.Win.Main.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Pessoas\\DeskSolution.Win.Pessoas.csproj",
+      "projectName": "DeskSolution.Win.Pessoas",
+      "projectPath": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Pessoas\\DeskSolution.Win.Pessoas.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Main\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Pessoas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,11 +33,7 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
-          "projectReferences": {
-            "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Pessoas\\DeskSolution.Win.Pessoas.csproj": {
-              "projectPath": "C:\\Users\\Aluno\\source\\repos\\DeskSolution\\DeskSolution.Win.Pessoas\\DeskSolution.Win.Pessoas.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
